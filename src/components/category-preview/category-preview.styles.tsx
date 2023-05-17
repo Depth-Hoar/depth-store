@@ -30,3 +30,4 @@ export const Preview = styled.div`
     grid-row-gap: 25px;
   }
 `;
+
