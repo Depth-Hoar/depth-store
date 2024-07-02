@@ -73,7 +73,7 @@ Open your browser and navigate to http://localhost:3000.
 
 ## Contact
 
-Created by [Your Name](https://depthhoar.com/) - feel free to contact me!
+Created by [Adam](https://depthhoar.com/) - feel free to contact me!
 
 ## Acknowledgements
 
